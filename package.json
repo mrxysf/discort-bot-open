@@ -1,0 +1,22 @@
+{
+    "name": "dixord",
+    "version": "1.0.0",
+    "description": "A Discord bot for a personal server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Yusuf Kerem Ozaydin, Batuhan Durdu",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "discord.js": "^11.5.1",
+        "ffbinaries": "^1.1.1",
+        "ffmpeg": "0.0.4",
+        "ffmpeg-static": "^2.4.0",
+        "node-fetch": "^2.6.0",
+        "node-opus": "^0.3.2",
+        "ytdl": "^0.13.1"
+    }
+}
