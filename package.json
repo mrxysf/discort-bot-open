@@ -1,5 +1,5 @@
 {
-    "name": "dixord",
+    "name": "discord-bot",
     "version": "1.0.0",
     "description": "A Discord bot for a personal server",
     "main": "index.js",
